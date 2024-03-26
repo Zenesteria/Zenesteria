@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdurrahman</h1>
 <h3 align="center">A passionate developer from Nigeria.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zenesteria&label=Profile%20views&color=0e75b6&style=flat" alt="zenesteria" /> </p>
-
 <p align="left"> <a href="https://twitter.com/zen_codez" target="blank"><img src="https://img.shields.io/twitter/follow/zen_codez?logo=twitter&style=for-the-badge" alt="zen_codez" /></a> </p>
 
 - 🔭 I’m currently working on **Davinci Desk**
