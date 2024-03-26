@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdurrahman</h1>
-<h3 align="center">A passionate developer from Nigeria. &U+1F1F3;</h3>
+<h3 align="center">A passionate developer from Nigeria. <img src="https://emojiguide.com/flags/flag-nigeria/"/></h3>
 
 <p align="left"> <a href="https://twitter.com/zen_codez" target="blank"><img src="https://img.shields.io/twitter/follow/zen_codez?logo=twitter&style=for-the-badge" alt="zen_codez" /></a> </p>
 
