@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Blog](https://zen-codes.vercel.app/blog)
 
-- 💬 Ask me about **Nextjs, Pytorch, Data Science, Web Development**
+- 💬 Ask me about **Nextjs, Web Development**
 
 - 📫 How to reach me **abdurrahman.aderinto@gmail.com**
 
